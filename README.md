@@ -1,12 +1,10 @@
 # Laba5
 public class Game {
-}
-import junit.framework.TestCase;
+  public void roll(int pins) {
+  }
 
-public class BowlingGameTest extends TestCase {
-  public void testGutterGame() throws Exception {
-    Game g = new Game();
+  public int score() {
+    return -1;
   }
 }
-
 
